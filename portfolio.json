@@ -1,0 +1,26 @@
+{
+    "abc": [
+        {
+            "symbol": "google",
+            "quantity": 1000,
+            "purchase_price": 100.0
+        },
+        {
+            "symbol": "accenture ",
+            "quantity": 1000,
+            "purchase_price": 100.0
+        },
+        {
+            "symbol": "tcs",
+            "quantity": 100000000,
+            "purchase_price": 100.0
+        }
+    ],
+    "ggg": [
+        {
+            "symbol": "google",
+            "quantity": 1000,
+            "purchase_price": 100.0
+        }
+    ]
+}
